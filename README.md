@@ -46,4 +46,10 @@ The project includes a full suite of algorithms:
 #### **Optimal Dynamic Programming**
 - Explores the full state space to compute the **optimal schedule**  
 - Uses **state pruning** and **memoisation**  
-- Serves as the **benchmark** for comparisons  
+- Serves as the **benchmark** for comparisons
+
+
+#### **Future Work**
+ **Genetic Algorithms** and **Reinforcement Learning** to scale to larger task sets efficiently
+
+
